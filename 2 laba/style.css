@@ -1,0 +1,20 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+#HFrame{
+    width: 100%;
+    height: 15%;
+}
+#LFrame{
+    width: 25%;
+    height: 75%;
+}
+#RFrame{
+    width: 80%;
+    height: 75%;
+}
+#BFrame{
+    width: 100%;
+    height: 15%;
+}
